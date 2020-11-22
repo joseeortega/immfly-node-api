@@ -1,0 +1,43 @@
+{
+  "name": "immfly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cp ./src/environments/.env.dev ./.env && nodemon ./src/index.ts"
+  },
+  "author": "immfly",
+  "license": "",
+  "dependencies": {
+    "@types/body-parser": "^1.17.1",
+    "@types/cheerio": "^0.22.20",
+    "@types/cors": "^2.8.7",
+    "@types/cron": "^1.7.2",
+    "@types/errorhandler": "0.0.32",
+    "@types/express": "^4.17.2",
+    "@types/mongoose": "^5.7.1",
+    "@types/morgan": "^1.9.2",
+    "@types/node": "^14.0.10",
+    "axios": "^0.19.2",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "express-status-monitor": "^1.0.1",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@typescript-eslint/eslint-plugin": "^4.4.1",
+    "@typescript-eslint/parser": "^4.4.1",
+    "eslint": "^7.11.0",
+    "jest": "^26.6.3",
+    "nodemon": "^1.18.3",
+    "ts-jest": "^26.4.4"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  }
+}
