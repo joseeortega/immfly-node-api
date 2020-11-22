@@ -38,10 +38,13 @@ Also for docker compose, just ```docker-compose up``` and the API will be availa
     * Oracle SQL
     * MySQL
     * DB2
+    
 * NOSQL (NOSQL databases you have experience with)
     * MongoDB
+    
 * RabbitMQ (Have you used it before? And how long?)
     * I have never used it
+    
 * Git (Do you have experience with git?)
     * Yes, I have a solid development experience with Git. Also, I have worked with different Git WorkFlow.
         * Git Flow
