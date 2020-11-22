@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cp ./src/environments/.env.dev ./.env && nodemon ./src/index.ts"
+    "start": "cp ./src/environments/.env.dev ./.env && nodemon ./src/index.ts"
   },
   "author": "immfly",
-  "license": "",
+  "license": "UNLICENSED",
+  "repository": {},
   "dependencies": {
     "@types/body-parser": "^1.17.1",
     "@types/cheerio": "^0.22.20",
