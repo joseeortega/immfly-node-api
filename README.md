@@ -32,14 +32,17 @@ Also for docker compose, just ```docker-compose up``` and the API will be availa
 # Immfly Questions:
 
 * SQL (SQL databases you have experience with)
-    SQL Server, Oracle SQL Server, DB2, 
+    * SQL Server
+    * Oracle SQL
+    * MySQL
+    * DB2
 * NOSQL (NOSQL databases you have experience with)
-    MongoDB, MariaDB
+    * MongoDB
+    * MariaDB
 * RabbitMQ (Have you used it before? And how long?)
-    I have never used it
+    * I have never used it
 * Git (Do you have experience with git?)
-    Yes, I have a solid development experience with Git.
-    Also, I have worked with different Git WorkFlow.
-    * Git Flow
-    * GitHub Flow: Trunk-Based Development
-    * Trunk-Based Development
+    * Yes, I have a solid development experience with Git. Also, I have worked with different Git WorkFlow.
+        * Git Flow
+        * GitHub Flow: Trunk-Based Development
+        * Trunk-Based Development
