@@ -1,5 +1,6 @@
 
-# Explanation
+# ImmFly Node Api
+Basic NodeJS (Express) API project
 
 ## Exceptions
 Custom exceptions has been added in order to control de inputs of the API.
@@ -32,6 +33,7 @@ Also for docker compose, just ```docker-compose up``` and the API will be availa
 # Immfly Questions:
 
 * SQL (SQL databases you have experience with)
+    SQL Server, Oracle SQL Serve
     * SQL Server
     * Oracle SQL
     * MySQL
